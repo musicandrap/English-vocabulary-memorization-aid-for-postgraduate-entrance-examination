@@ -10,3 +10,7 @@
 ## 🛠️ 安装与运行
 ### 前置要求
 - Rust 1.70+
+### 快速开始
+-1.克隆仓库：git clone https://github.com/musicandrap/English-vocabulary-memorization-aid-for-postgraduate-entrance-examination.git
+-2.切换目录：cd English-vocabulary-memorization-aid-for-postgraduate-entrance-examination/tools
+-3.运行：cargo run --release

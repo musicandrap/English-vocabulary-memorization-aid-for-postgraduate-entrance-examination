@@ -14,10 +14,5 @@
 - Rust 1.70+
 ```bash
 git clone https://github.com/musicandrap/English-vocabulary-memorization-aid-for-postgraduate-entrance-examination.git
-bash```
-```bash
 cd English-vocabulary-memorization-aid-for-postgraduate-entrance-examination/tools
-bash```
-```bash
 cargo run --release
-bash```

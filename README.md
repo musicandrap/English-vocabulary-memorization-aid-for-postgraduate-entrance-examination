@@ -13,13 +13,9 @@
 ### 前置要求
 - Rust 1.70+
 ```bash
-rustup update stable
 git clone https://github.com/musicandrap/English-vocabulary-memorization-aid-for-postgraduate-entrance-examination.git
+```bash
 cd English-vocabulary-memorization-aid-for-postgraduate-entrance-examination/tools
+```bash
 cargo run --release
-开始单词背诵 (共 50 个单词)
-输入任意键查看答案，输入 q 退出
 
-(1) abandon
-[按回车显示]
-v 放弃
